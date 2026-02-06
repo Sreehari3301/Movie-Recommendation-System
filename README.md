@@ -71,7 +71,7 @@ python recommend_engine.py
 ### 2. Run the Legacy App
 To open the local dashboard on a different port:
 ```bash
-streamlit run rec_app.py --server.port 8502 (You can use different ports like 8503, 8504, 8505 etc.)
+streamlit run rec_app.py --server.port 8502
 ```
-
+♻️You can use different ports like 8503, 8504, 8505 etc.
 ---
